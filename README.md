@@ -1,2 +1,2 @@
-# unityprojects
+# exampleunityprojects
 example Unity projects
